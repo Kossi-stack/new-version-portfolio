@@ -6,6 +6,6 @@ I é uma startup
 americana e o contrato
 - é feito via PJ;
 - Salários  
-- $
+
 
 
