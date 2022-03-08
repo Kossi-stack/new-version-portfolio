@@ -1,6 +1,5 @@
 # new-version-portfolio
 
-jhqwqwqwqwqwqwqwqwqwqwqwqwqwqwqwqwqwqwqw
 
 
 
