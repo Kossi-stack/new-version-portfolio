@@ -9,7 +9,7 @@ new-version-portfolio
 
 new-version-portfolio
 
-new-version-port
+new-vers
 # new-version-portfolio
 new-version-portfol
 new-version-port
