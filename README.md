@@ -23,4 +23,4 @@ new-version-portfolio
 new-version-portfolio
 
 # new-version-portfolio
-newrsi
+new
