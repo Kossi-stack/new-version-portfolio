@@ -1,5 +1,5 @@
 # new-versio
-new-version-portfo
+new-version-port
 # new-version-portfolio
 new-version-portfolio
 # new-version-portfolio
