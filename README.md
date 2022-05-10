@@ -32,7 +32,7 @@ new-version-portfolio
 # new-version-portfolio
 new-version-portf
 # new-version-portfolio
-new-versi
+new-v
 # new-version-portfolio
 new-version-portfolio
 # new-version-portfolio
