@@ -51,4 +51,4 @@ new-version-portfolio
 # new-version-portfolio
 new-version-portfolio
 # new-version-portfolio
-new-vers
+new-ver
