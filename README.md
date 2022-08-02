@@ -1,4 +1,4 @@
-new-verson
+new-vers
 # new-version-portfo
 new-version-portf
 # new-version-portfolio
