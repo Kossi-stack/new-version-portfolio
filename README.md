@@ -24,7 +24,7 @@ new-version-portfoli
 # new-version-port
 new-version-portfolio
 # new-version-port
-new-ve
+new
 # new-version-portfolio
 new-version-portfolio
 # new-version-portfo
