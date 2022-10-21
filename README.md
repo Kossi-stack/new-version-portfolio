@@ -36,7 +36,7 @@ new-version-portfolio
 # new-version-portfolio
 new-version-portfolio
 # new-version-port
-new-version-p
+new-versio
 # new-version-portfolio
 new-version-portfolio
 # new-version-portfo
