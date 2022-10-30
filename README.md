@@ -1,5 +1,3 @@
-
-ne
 # new-version-portfol
 new-version-portfolio
 # new-version-portfolio
