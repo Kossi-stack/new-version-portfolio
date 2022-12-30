@@ -1,4 +1,4 @@
-new-version
+new-vers
 # new-version-portfo
 new-version-portfolio
 # new-version-portfolio
