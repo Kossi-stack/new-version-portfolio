@@ -1,7 +1,5 @@
-# ne
 new-version-portfolio
 # new-version-portfo
-new-ver
 # new-version-portfo
 new-version-portfolio
 # new-version-portfolio
