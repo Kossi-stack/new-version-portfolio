@@ -2,7 +2,7 @@ new-version-po
 # new-version-po
 new-version-portfolio
 # new-version-portfo
-new-version
+new-ver
 # new-version-portfo
 new-version-portfolio
 # new-version-portfolio
