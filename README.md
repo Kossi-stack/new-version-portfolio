@@ -1,4 +1,3 @@
-#
 
 # new-version-po
 new-version-portfolio
